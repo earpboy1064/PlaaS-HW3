@@ -1,6 +1,6 @@
 #!/bin/bash
  
- oc new-project wwl0004-hw3-10
+ oc new-project wwl0004-paas-hw3
  oc create -f hw3Template.json
  oc process php-employees-persistent | oc create -f -
  
