@@ -24,5 +24,5 @@ sleep 1
 
  oc get route
  
- echo " please enter the above route into this curl command: "
- echo " curl -w "\n" http://quote-php-test4.apps.na410r.prod.ole.redhat.com "
+echo "please enter the above route into this curl command: "
+echo "curl http://"
