@@ -1,7 +1,7 @@
-by Wyatt leMaster
+by Wyatt LeMaster
 
 To run please make sure you change the permissions for the script. 
-Make sure you are logged into quay.io and opensift. 
+make sure you are logged into quay.io and open shift. 
 
 to execute just type ./build
 
